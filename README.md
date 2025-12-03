@@ -1,5 +1,8 @@
 [![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](<Redirect-URL>)
 
+HUOM !!!
+TÄMÄ REPO ON HSY-SETTI KÄYTÖSSÄ. Kirjastoa käytetään Azuren pipeline ajoissa.
+
 # DataBC Python Library
 
 ## This is the branch used to manage the python
@@ -27,4 +30,5 @@ FMEUtil
  - **FMWParser** : a package to help with extracting information from FMW's.
                    This is a work in progress.  Code gets added on an as needed
                    basis.
+
 
